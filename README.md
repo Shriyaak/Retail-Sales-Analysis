@@ -8,6 +8,11 @@ Data Cleaning: Identify and remove any records with missing or null values.<br/>
 Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.<br/>
 Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data. <br/>
 
+### Project Structure: 
+1. Database Setup <br/>
+2. Data Exploration and Cleaning <br/>
+3. Data Analysis and Findings <br/>
+
 ### Findings:
 Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty. <br/>
 High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases. <br/>
